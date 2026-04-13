@@ -31,10 +31,6 @@ Scikit-learn, XGBoost, Pickle
 - Random Forest and XGBoost showed competitive performance but slightly lower generalization.
 - Decision Tree underperformed due to overfitting.
 
-## 📊 Visualizations
-
-![Price vs Area](images/price_vs_area.png)
-![Correlation Heatmap](images/heatmap.png)
 
 ## Key Steps
 - Cleaned messy total_sqft (ranges, wrong units)
