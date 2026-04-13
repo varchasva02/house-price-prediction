@@ -1,7 +1,7 @@
-# house-price-prediction
-ML project to predict house prices using Scikit-learn and XGBoost
+# 🏡 House Price Prediction using Machine Learning
 
-# 🏠 House Price Prediction
+An end-to-end machine learning project that predicts housing prices in Bengaluru using multiple regression models, achieving an R² score of 0.82 with Linear Regression.
+
 
 ## Overview
 End-to-end Machine Learning project to predict house 
